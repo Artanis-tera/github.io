@@ -1,8 +1,11 @@
-## Welcome to GitHub Pages
+## Welcome to Bryce's Pages!
 
-You can use the [editor on GitHub](https://github.com/Artanis-tera/github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+You can visit [Artanis-tera](https://github.com/Artanis-tera/github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+I'm Bryce Sun (Minghao Sun), a pre-medical student who dreams to be an excellent doctor.
+
 
 ### Markdown
 
