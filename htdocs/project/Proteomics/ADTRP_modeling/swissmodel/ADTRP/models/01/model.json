@@ -1,0 +1,451 @@
+{
+  "built_with": "ProMod3 3.2.0",
+  "coverage": 0.1652173847,
+  "excluded_ligands": [
+    {
+      "description": "2-acetamido-2-deoxy-beta-D-glucopyranose",
+      "ligands": [
+        {
+          "exclusion_reason": "Binding site not conserved.",
+          "number": "5"
+        },
+        {
+          "exclusion_reason": "Binding site not conserved.",
+          "number": "6"
+        },
+        {
+          "exclusion_reason": "Not in contact with model.",
+          "number": "7"
+        },
+        {
+          "exclusion_reason": "Binding site not conserved.",
+          "number": "8"
+        },
+        {
+          "exclusion_reason": "Binding site not conserved.",
+          "number": "9"
+        },
+        {
+          "exclusion_reason": "Binding site not conserved.",
+          "number": "10"
+        },
+        {
+          "exclusion_reason": "Not in contact with model.",
+          "number": "11"
+        },
+        {
+          "exclusion_reason": "Not in contact with model.",
+          "number": "12"
+        },
+        {
+          "exclusion_reason": "Binding site not conserved.",
+          "number": "13"
+        },
+        {
+          "exclusion_reason": "Binding site not conserved.",
+          "number": "14"
+        },
+        {
+          "exclusion_reason": "Not in contact with model.",
+          "number": "15"
+        },
+        {
+          "exclusion_reason": "Binding site not conserved.",
+          "number": "16"
+        },
+        {
+          "exclusion_reason": "Binding site not conserved.",
+          "number": "17"
+        },
+        {
+          "exclusion_reason": "Not in contact with model.",
+          "number": "18"
+        },
+        {
+          "exclusion_reason": "Binding site not conserved.",
+          "number": "19"
+        },
+        {
+          "exclusion_reason": "Binding site not conserved.",
+          "number": "20"
+        },
+        {
+          "exclusion_reason": "Binding site not conserved.",
+          "number": "21"
+        },
+        {
+          "exclusion_reason": "Binding site not conserved.",
+          "number": "22"
+        },
+        {
+          "exclusion_reason": "Not in contact with model.",
+          "number": "23"
+        },
+        {
+          "exclusion_reason": "Binding site not conserved.",
+          "number": "24"
+        },
+        {
+          "exclusion_reason": "Binding site not conserved.",
+          "number": "25"
+        },
+        {
+          "exclusion_reason": "Binding site not conserved.",
+          "number": "26"
+        },
+        {
+          "exclusion_reason": "Not in contact with model.",
+          "number": "27"
+        },
+        {
+          "exclusion_reason": "Binding site not conserved.",
+          "number": "28"
+        },
+        {
+          "exclusion_reason": "Binding site not conserved.",
+          "number": "29"
+        },
+        {
+          "exclusion_reason": "Binding site not conserved.",
+          "number": "30"
+        },
+        {
+          "exclusion_reason": "Binding site not conserved.",
+          "number": "31"
+        },
+        {
+          "exclusion_reason": "Binding site not conserved.",
+          "number": "32"
+        },
+        {
+          "exclusion_reason": "Binding site not conserved.",
+          "number": "33"
+        }
+      ],
+      "name": "NAG"
+    },
+    {
+      "description": "2-acetamido-2-deoxy-beta-D-glucopyranose-(1-4)-2-acetamido-2-deoxy-beta-D-glucopyranose",
+      "ligands": [
+        {
+          "exclusion_reason": "Binding site not conserved.",
+          "number": "1"
+        },
+        {
+          "exclusion_reason": "Binding site not conserved.",
+          "number": "2"
+        },
+        {
+          "exclusion_reason": "Binding site not conserved.",
+          "number": "3"
+        },
+        {
+          "exclusion_reason": "Binding site not conserved.",
+          "number": "4"
+        }
+      ],
+      "name": "NAG-NAG"
+    }
+  ],
+  "gmqe": 0.0221816297,
+  "included_ligands": [],
+  "json_version": "0.1",
+  "major_issues": null,
+  "model_id": "01",
+  "oligo_based_on": "prediction",
+  "oligo_state": "monomer",
+  "pdb_release": "2021-04-23",
+  "project_title": "Untitled Project",
+  "qmean_global": {
+    "acc_agreement_norm_score": 0.1333333333,
+    "acc_agreement_z_score": -4.8025677976,
+    "avg_local_score": 0.2931125465,
+    "avg_local_score_error": 0.115,
+    "cbeta_norm_score": 0.0525120818,
+    "cbeta_z_score": -5.2221278373,
+    "interaction_norm_score": -0.0463061242,
+    "interaction_z_score": 0.29490877730000004,
+    "packing_norm_score": -0.0063025586,
+    "packing_z_score": -1.731407278,
+    "qmean4_norm_score": 0.46497036490000004,
+    "qmean4_z_score": -2.5110127614,
+    "qmean6_norm_score": 0.3961030111,
+    "qmean6_z_score": -2.6232965624,
+    "ss_agreement_norm_score": 0.5566927105,
+    "ss_agreement_z_score": 0.1559562675,
+    "torsion_norm_score": -0.0016151745,
+    "torsion_z_score": -0.8497206242
+  },
+  "sequence_identity": 10.5263156891,
+  "sequence_similarity": 0.2473683804,
+  "smtl_version": "2021-04-28",
+  "status": "COMPLETED",
+  "targets": [
+    {
+      "model_chains": [
+        {
+          "dssp": "----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------CTTTSSSHHHHHHHHHHHHHHHHHHHHHHC",
+          "id": "D",
+          "qmean": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            0.22,
+            0.25,
+            0.29,
+            0.26,
+            0.26,
+            0.24,
+            0.25,
+            0.28,
+            0.28,
+            0.32,
+            0.33,
+            0.29,
+            0.30000000000000004,
+            0.32,
+            0.32,
+            0.36,
+            0.32,
+            0.33,
+            0.30000000000000004,
+            0.32,
+            0.37,
+            0.33,
+            0.29,
+            0.29,
+            0.29,
+            0.28,
+            0.28,
+            0.25,
+            0.31,
+            0.25,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "residue_from": "185",
+          "residue_to": "214",
+          "templates": [
+            {
+              "alignment": {
+                "target_sequence": "MTKTSTCIYHFLVLSWYTFLNYYISQEGKDEVKPKILANGARWKYMTLLNLLLQTIFYGVTCLDDVLKRTKGGKDIKFLTAFRDLLFTTLAFPVSTFVFLAFWILFLYNRDLIYPKVLDTVIPVWLNHAMHTFIFPITLAEVVLRPHSYPSKKTGLTLLAAASIAYISRILWLYFETGTWVYPVFAKLSLLGLAAFFSLSYVFIASIYLLGEKLNHWKWGDMRQPRKKRK",
+                "template_sequence": "----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------LEPFSASVWVMMFVMLLIVSAIAVFVFEYFSPVGYNRN--------"
+              },
+              "coverage": 0.1652173847,
+              "description": "Glutamate receptor ionotropic, NMDA 2A",
+              "found_by": "HHblits",
+              "gmqe": 0.0257778727,
+              "method": "ELECTRON MICROSCOPY",
+              "offset": 549,
+              "oligo_state": "monomer",
+              "qualified_name": "6mmt.1.D",
+              "sequence_identity": 10.5263156891,
+              "sequence_similarity": 0.2473683804,
+              "short_method": "EM",
+              "title": "Triheteromeric NMDA receptor GluN1/GluN2A/GluN2A* in the '1-Knuckle' conformation, in complex with glycine and glutamate, in the presence of 1 micromolar zinc chloride, and at pH 7.4"
+            }
+          ]
+        }
+      ],
+      "target_sequence": "MTKTSTCIYHFLVLSWYTFLNYYISQEGKDEVKPKILANGARWKYMTLLNLLLQTIFYGVTCLDDVLKRTKGGKDIKFLTAFRDLLFTTLAFPVSTFVFLAFWILFLYNRDLIYPKVLDTVIPVWLNHAMHTFIFPITLAEVVLRPHSYPSKKTGLTLLAAASIAYISRILWLYFETGTWVYPVFAKLSLLGLAAFFSLSYVFIASIYLLGEKLNHWKWGDMRQPRKKRK",
+      "target_sequence_annotations": {
+        "psipred": "CCHHHHHHHHHHHHHHHHHHHHHHHHCCCCCCCCCCCCCCCCCCHHHHHHHHHHHHHHHHHHHHHHHHHCCCCCCHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHCCCCCCCCCCCCCCCHHHHHHHHHHHHHHHHHHHHHHCCCCCCCCHHHHHHHHHHHHHHHHHHHHHHHCCCEECCCHHHHCCHHHHHHHHHHHHHHHHHHHHHHHHHHHHHCCCCCCCCCCCC"
+      }
+    }
+  ]
+}
